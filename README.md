@@ -1,12 +1,12 @@
-# ResearchIQ
+# code-reacher
 ### Smart AI-Powered Research Agent using IBM Granite & Langflow
 
 ---
 
 ## 📌 Project Overview
-**ResearchIQ** is an advanced Agentic AI system developed under the **IBM Skills Build for University Engagements (AICTE-2026)** program. It specifically addresses **Problem Statement No.1: Research Agent**. 
+**code-reacher** is an advanced Agentic AI system developed under the **IBM Skills Build for University Engagements (AICTE-2026)** program. It specifically addresses **Problem Statement No.1: Research Agent**. 
 
-The traditional research process involves manually scanning thousands of academic papers, summarizing complex literature, and managing extensive citations—a process that is highly time-consuming. **ResearchIQ** automates these core workflows by utilizing **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic Workflows** powered by **IBM Granite Models** via **IBM watsonx.ai**. It acts as an autonomous digital assistant for students, researchers, academics, and R&D professionals to accelerate scientific innovation.
+The traditional research process involves manually scanning thousands of academic papers, summarizing complex literature, and managing extensive citations—a process that is highly time-consuming. **code-reacher** automates these core workflows by utilizing **Natural Language Processing (NLP)**, **Retrieval-Augmented Generation (RAG)**, and **Agentic Workflows** powered by **IBM Granite Models** via **IBM watsonx.ai**. It acts as an autonomous digital assistant for students, researchers, academics, and R&D professionals to accelerate scientific innovation.
 
 ---
 
@@ -93,7 +93,7 @@ The traditional research process involves manually scanning thousands of academi
 ## 📂 Repository Directory Structure
 
 ```directory
-ResearchIQ/
+code-reacher/
 ├── problem_statement.pdf                # Original AICTE problem statement guide
 ├── architecture-blueprint.png           # Visual system architecture diagram
 ├── project_presentation.pptx            # Technical presentation deck for evaluators
@@ -114,8 +114,8 @@ ResearchIQ/
 ### Installation & Flow Ingestion
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/theunstopabble/ResearchIQ.git
-   cd ResearchIQ
+   git clone https://github.com/theunstopabble/code-reacher.git
+   cd code-reacher
    ```
 2. **Environment Variables Configuration:**
    Create a `.env` file in your project directory and set up your IBM Watsonx credentials:
@@ -128,7 +128,7 @@ ResearchIQ/
    - Open your Langflow dashboard environment.
    - Click on **Upload / Import** and select the provided flow pipeline JSON from the repository source folder.
    - Ensure the API nodes are fully populated with your environmental keys.
-   - Build and run the entry node to start interacting with **ResearchIQ**.
+   - Build and run the entry node to start interacting with **code-reacher**.
 
 ---
 
@@ -143,7 +143,6 @@ ResearchIQ/
 
 ## 👤 Developer & Contact Info
 
-- **Developer Name:** Shubham Raj 
-- **GitHub:** [@shubhamsingh](https://github.com/shubbhamsingh)
-- **Portfolio:** [shubham-singh.vercel.app](https://shubham-raj-portfolio.vercel.app/)
+- **Developer Name:** yuvraj Singh
+- **GitHub:** [@yuvrajsingh](https://github.com/yuvraj860-hue)
 - **Project Scope:** Submission for IBM Skills Build University Engagement (AICTE-2026)

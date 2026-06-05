@@ -1,5 +1,5 @@
 {
-  "project_name": "ResearchIQ",
+  "project_name": "code-reacher",
   "description": "AI-powered Research Agent using IBM watsonx AI, IBM Granite Models, Langflow, and IBM Cloud Lite Services.",
   "domain": "Artificial Intelligence / NLP / Research Automation",
   "technologies_used": [
@@ -11,6 +11,6 @@
     "APIs"
   ],
   "project_type": "Research Agent",
-  "developer": "Shubham Raj",
-  "github_repository": "https://github.com/shubbhamsingh/ResearchIQ"
+  "developer": "Yuvraj Singh",
+  "github_repository": "https://github.com/yuvraj860-hue/code-reacher"
 }
