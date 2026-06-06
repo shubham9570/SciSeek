@@ -1,5 +1,5 @@
 {
-  "project_name": "code-reacher",
+  "project_name": "SciSeek",
   "description": "AI-powered Research Agent using IBM watsonx AI, IBM Granite Models, Langflow, and IBM Cloud Lite Services.",
   "domain": "Artificial Intelligence / NLP / Research Automation",
   "technologies_used": [
@@ -11,6 +11,6 @@
     "APIs"
   ],
   "project_type": "Research Agent",
-  "developer": "Yuvraj Singh",
-  "github_repository": "https://github.com/yuvraj860-hue/code-reacher"
+  "developer": "Shubham kumar",
+  "github_repository": "https://github.com/shubham9570/SciSeek"
 }
